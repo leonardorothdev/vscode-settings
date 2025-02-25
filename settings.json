@@ -12,6 +12,7 @@
   "workbench.layoutControl.enabled": false,
   "workbench.editor.enablePreview": false,
   "workbench.settings.editor": "json",
+  "workbench.editor.labelFormat": "short",
   "workbench.colorCustomizations": {
     "[Vesper]": {
       "tab.activeBorder": "#FFF",
@@ -23,6 +24,10 @@
       "tab.inactiveBackground": "#101010"
     }
   },
+  "symbols.hidesExplorerArrows": false,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
   "editor.fontSize": 15,
   "editor.fontWeight": "400",
   "editor.fontFamily": "JetBrains Mono",
